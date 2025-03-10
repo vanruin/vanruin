@@ -1,12 +1,26 @@
-# Lazy Coder, Efficient Builder 🚀  
+# 🌸 Lazy Coder, Efficient Builder 🌸  
 
-![Automation](https://source.unsplash.com/featured/?technology,coding)  
+![Aesthetic Anime Coding](https://imgur.com/a/j6bR0FE)  
 
-### I automate so I can do less and build more.  
-
-🔧 **Skills**: Automation | Backend Development | APIs | Database Management  
-⚡ **Focus**: Building smart solutions that save time  
-💡 **Motto**: "Work smarter, not harder"  
+## 👾 About Me  
+🖥️ I love coding in **Python, Java, JavaScript, and PHP**  
+🎨 I enjoy designing with **CSS & HTML**  
+🤖 I automate so I can do less and **build more**  
+📀 I love working with **databases & backend systems**  
 
 ---
-🚀 _"Code less, build more."_  
+
+## 🚀 Tech Stack  
+💻 **Languages:** Python | Java | JavaScript | PHP  
+🎨 **Frontend:** HTML | CSS | Tailwind | React  
+⚙️ **Backend & Automation:** Node.js | PHP | Python Scripts  
+🗄️ **Databases:** MySQL | MongoDB | Firebase  
+🔧 **Tools:** Git | Linux | VS Code  
+
+---
+
+## 💫 Let's Connect  
+🌐 [GitHub Profile](https://github.com/vanruin)  
+📧 Reach me at: `your@email.com`  
+
+💭 _"Work smarter, not harder."_  
