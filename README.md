@@ -21,6 +21,6 @@
 
 ## 💫 Let's Connect  
 🌐 [GitHub Profile](https://github.com/vanruin)  
-📧 Reach me at: `your@email.com`  
+📧 Reach me at: `jovanreguya4@gmail.com`  
 
 💭 _"Work smarter, not harder."_  
