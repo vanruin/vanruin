@@ -1,6 +1,6 @@
 # 🌸 Lazy Coder, Efficient Builder 🌸  
 
-![Aesthetic Anime Coding](https://imgur.com/a/j6bR0FE)  
+![Aesthetic Anime Coding](hey.jpg)  
 
 ## 👾 About Me  
 🖥️ I love coding in **Python, Java, JavaScript, and PHP**  
