@@ -1,4 +1,4 @@
-# 🌸 Lazy Coder, Efficient Builder 🌸  
+# 🌊 Lazy Coder, Efficient Builder 🌀
 
 ![Aesthetic Anime Coding](a.jpg.jpg)  
 
